@@ -23,7 +23,7 @@ Below is a comprehensive table summarizing the most common numerical data types 
 
 ---
 
-## 2. Integer Types
+### 2. Integer Types
 
 | Data Type          | Alias(s)          | Bit‑Width | Approximate Range                  | Description                                                            |
 |--------------------|-------------------|-----------|------------------------------------|------------------------------------------------------------------------|
